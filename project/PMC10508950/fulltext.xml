@@ -1,0 +1,250 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jats2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Rev Assoc Med Bras (1992)</journal-id><journal-id journal-id-type="iso-abbrev">Rev Assoc Med Bras (1992)</journal-id><journal-id journal-id-type="publisher-id">ramb</journal-id><journal-title-group><journal-title>Revista da Associa&#x000e7;&#x000e3;o M&#x000e9;dica Brasileira</journal-title></journal-title-group><issn pub-type="ppub">0104-4230</issn><issn pub-type="epub">1806-9282</issn><publisher><publisher-name>Associa&#x000e7;&#x000e3;o M&#x000e9;dica Brasileira</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">10508950</article-id><article-id pub-id-type="doi">10.1590/1806-9282.20230661</article-id><article-id pub-id-type="other">00615</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Severe acute respiratory syndrome coronavirus 2 seroprevalence among patients with pulmonary tuberculosis</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5897-3257</contrib-id><name><surname>Dias</surname><given-names>Natan Jos&#x000e9; Dutra</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x02013; review &#x00026; editing</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0123-9270</contrib-id><name><surname>da Silva</surname><given-names>Maiana Silva</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x02013; review &#x00026; editing</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3158-6481</contrib-id><name><surname>Barbosa</surname><given-names>M&#x000e1;rcia Silva</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x02013; review &#x00026; editing</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6995-4046</contrib-id><name><surname>Pereira</surname><given-names>Giovana Rodrigues</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x02013; review &#x00026; editing</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0230-2734</contrib-id><name><surname>Silva</surname><given-names>Denise Rossato</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="c1" ref-type="corresp">*</xref><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x02013; original draft</role></contrib></contrib-group><aff id="aff1">
+<label>1</label>Universidade Federal do Rio Grande do Sul, Programa de P&#x000f3;s-Gradua&#x000e7;&#x000e3;o em Ci&#x000ea;ncias Pneumol&#x000f3;gicas &#x02013; Porto Alegre, Brazil.</aff><aff id="aff2">
+<label>2</label>Laborat&#x000f3;rio Municipal de Alvorada &#x02013; Alvorada, Brazil.</aff><aff id="aff3">
+<label>3</label>Hospital de Cl&#x000ed;nicas de Porto Alegre &#x02013; Porto Alegre, Brazil.</aff><aff id="aff4">
+<label>4</label>Universidade Federal do Rio Grande do Sul, Faculdade de Medicina &#x02013; Porto Alegre, Brazil.</aff><author-notes><corresp id="c1">
+<label>*</label>Corresponding author: <email>denise.rossato@terra.com.br</email>
+</corresp><fn fn-type="COI-statement"><p>Conflicts of interest: the authors declare there is no conflicts of interest.</p></fn></author-notes><pub-date date-type="pub" publication-format="electronic"><day>18</day><month>9</month><year>2023</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2023</year></pub-date><volume>69</volume><issue>9</issue><elocation-id>e20230661</elocation-id><history><date date-type="received"><day>29</day><month>6</month><year>2023</year></date><date date-type="accepted"><day>03</day><month>7</month><year>2023</year></date></history><permissions><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><title>SUMMARY</title><sec><title>OBJECTIVE:</title><p>The objective of this study was to estimate the seroprevalence of severe acute respiratory syndrome coronavirus 2 antibodies in patients with tuberculosis.</p></sec><sec><title>METHODS:</title><p>This cross-sectional study was conducted at an outpatient tuberculosis clinic in Alvorada, RS, Brazil, with data collection between October and December 2020. Outpatients aged&#x0003e;18 years with active pulmonary tuberculosis, no prior history of coronavirus disease 2019, and no suspected coronavirus disease 2019 were included in the study. Whole blood samples were collected to perform the severe acute respiratory syndrome coronavirus 2 antibodies test.</p></sec><sec><title>RESULTS:</title><p>During the study period, 52 patients met the inclusion and were included in the analysis. Severe acute respiratory syndrome coronavirus 2 antibodies were positive in 16 (30.8%) patients. Male sex was more frequent among patients with negative severe acute respiratory syndrome coronavirus 2 antibodies than in patients with positive severe acute respiratory syndrome coronavirus 2 antibodies (86.1 vs. 56.3%, p=0.031). Contact with coronavirus disease 2019 case was more common in patients with positive severe acute respiratory syndrome coronavirus 2 antibodies compared with patients with negative severe acute respiratory syndrome coronavirus 2 antibodies (87.5 vs. 8.3%, p&#x0003c;0.0001). In a multivariate analysis, in a model including the variables such as male sex and contact with coronavirus disease 2019 case, only contact with coronavirus disease 2019 was independently associated with positive severe acute respiratory syndrome coronavirus 2 antibodies (OR 77.0, 95%CI 11.5&#x02013;512.4, p&#x0003c;0.0001).</p></sec><sec><title>CONCLUSION:</title><p>This study revealed a seroprevalence of 30.8% severe acute respiratory syndrome coronavirus 2 among patients with tuberculosis.</p></sec></abstract><kwd-group><title>Keywords</title><kwd>Tuberculosis</kwd><kwd>SARS-CoV-2</kwd><kwd>Seroepidemiologic studies</kwd><kwd>COVID-19</kwd><kwd>Antibodies</kwd></kwd-group><counts><table-count count="2"/><ref-count count="24"/></counts></article-meta></front><body><sec sec-type="intro"><title>INTRODUCTION</title><p>Tuberculosis (TB) is a worldwide public health concern, with a global incidence of 6.4 million people in 2021<xref rid="B1" ref-type="bibr">
+<sup>1</sup>
+</xref>. Brazil is among the 30 high TB burden countries, with an incidence of 32 cases/100,000 population in 2021; in the State of Rio Grande do Sul, the incidence is 36.5 cases/100,000 population in 2021<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref>. The association between TB and coronavirus disease 2019 (COVID-19) has been described since the beginning of the COVID-19 pandemic<xref rid="B3" ref-type="bibr">
+<sup>3</sup>
+</xref>,<xref rid="B4" ref-type="bibr">
+<sup>4</sup>
+</xref>. Both diseases can present simultaneously and have similar symptoms<xref rid="B3" ref-type="bibr">
+<sup>3</sup>
+</xref>, so diagnosing TB during the COVID-19 pandemic requires a high degree of clinical suspicion. In addition, TB and COVID-19 co-infected individuals may be at a greater risk of morbidity and mortality. The risk of mortality was demonstrated to be 2.17 times higher in patients with concomitant COVID-19 and pulmonary TB<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref>. In a large cohort of 767 patients co-infected with TB and COVID-19, from 172 centers in 34 countries, the authors showed that age, male gender, and invasive ventilation were independent contributors to mortality. Among the patients who died, 42 (49.4%) died from COVID-19; 31 (36.5%) from COVID-19 and TB; and 1 (1.2%) died from TB only<xref rid="B6" ref-type="bibr">
+<sup>6</sup>
+</xref>.</p><p>Although studies have described the association between TB and COVID-19, emphasizing that the overlap of these diseases can cause more severe clinical conditions, no study has evaluated the prevalence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) antibodies in TB patients. Seroprevalence studies are important because they enable the detection of asymptomatic and subclinical infections, not usually included in the reported cases<xref rid="B7" ref-type="bibr">
+<sup>7</sup>
+</xref>,<xref rid="B8" ref-type="bibr">
+<sup>8</sup>
+</xref>. Identification and isolation of asymptomatic carriers and patients with mild COVID-19 are very important in preventing the disease spread, especially in these high-risk populations, helping to prevent COVID-19 morbidity and mortality<xref rid="B9" ref-type="bibr">
+<sup>9</sup>
+</xref>,<xref rid="B10" ref-type="bibr">
+<sup>10</sup>
+</xref>. Therefore, the objective of this study is to estimate the seroprevalence of SARS-CoV-2 antibodies in patients with TB without symptoms suggestive of COVID-19, in an outpatient TB clinic, before the widespread introduction of COVID-19 vaccines.</p></sec><sec sec-type="methods"><title>METHODS</title><sec><title>Study design and location</title><p>We conducted a cross-sectional study, from October to December 2020, with prospective data collection in an outpatient TB clinic in Alvorada, RS, Brazil. This clinic is the only reference center for TB in the city and treated 252 confirmed cases of TB in 2022. Alvorada is a city with 211,352 inhabitants, located in the metropolitan area of Porto Alegre, which has a TB incidence of 89.9 cases/100,000 inhabitants<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref>. Despite the sanitary restrictions in force during the study period, the care service for patients with TB has not changed in Alvorada. The study was approved by the Ethics Committee of Hospital de Cl&#x000ed;nicas de Porto Alegre (number 20-0490 &#x02013; CAAE: 38370330.8.0000.5327). All patients signed informed consent before the start of the study.</p></sec><sec><title>Patients and data collection</title><p>Outpatients aged&#x0003e;18 years with active pulmonary TB, no history of COVID-19, and no suspected COVID-19 were included in the study. Patients with extrapulmonary TB were excluded from this study. Pulmonary TB was diagnosed according to the Brazilian Guidelines for Tuberculosis<xref rid="B11" ref-type="bibr">
+<sup>11</sup>
+</xref>.</p><p>After signing informed written consent, enrolled subjects were interviewed using a standardized questionnaire. The following data were collected: demographic data (i.e., sex and age), medical history (i.e., presence of comorbidities, smoking habits, alcohol abuse, and use of drugs), and history of contact with a suspected or confirmed case of COVID-19.</p><p>Whole blood samples were collected to perform the test. The VITROS Immunodiagnostic Products Anti-SARS-CoV-2 Total Test (Ortho Clinical Diagnostics, USA) was performed using the VITROS Anti-SARS-CoV-2 Total Reagent Pack and the VITROS Anti-SARS-CoV-2 Total Calibrator in the VITROS ECi/ECiQ/3600 Immunodiagnostic Systems and in the VITROS 5600/XT 7600 Integrated Systems. The test assesses the immune response by qualitatively measuring total antibodies (including IgG, IgM, IgA, and other isotypes) against SARS-CoV-2. The result takes 48 min and is described as &#x0003c;1 (anti-SARS-CoV-2 non-reactive sample) or &#x02265;1 (anti-SARS-CoV-2 reactive sample). According to the manufacturer, the sensitivity of the test ranged from 79.4 to 100% and the specificity from 99.1 to 100%<xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref>.</p></sec><sec><title>Statistical analysis</title><p>Data analysis was performed using SPSS 18.0 (Statistical Package for the Social Sciences, Chicago, IL). Data were presented as number of cases, mean&#x000b1;standard deviation (SD), or median with interquartile range. Categorical comparisons were performed by chi-square test using Yates&#x02019;s correction if indicated or by Fisher&#x02019;s exact test. Continuous variables were compared using <italic>t</italic>-test or Wilcoxon test. Multivariate logistic regression analysis was performed to assess factors associated with the presence of antibodies against SARS-CoV-2. Hierarchical logistic regression models with predictors added one at a time were examined to assess possible collinearity between the predictors. The predictors selected in the final model were based on numerical and clinical significance. The quality of fit of the multiple logistic regression models was evaluated with the Hosmer-Lemeshow test. Odds ratios (ORs) and 95% confidence intervals (CI) were presented. A two-sided p-value&#x0003c;0.05 was considered significant for all analyses.</p><p>To calculate the sample size, we considered a SARS-CoV-2 seroprevalence of approximately 30% based on previous studies<xref rid="B13" ref-type="bibr">
+<sup>13</sup>
+</xref>-<xref rid="B16" ref-type="bibr">
+<sup>16</sup>
+</xref>. Thus, with an alpha error of 0.5 and a power of 80%, it would be necessary to include at least 42 patients in the study.</p></sec></sec><sec sec-type="results"><title>RESULTS</title><p>During the study period, 52 patients met the inclusion criteria and were included in the analysis. Only two patients did not accept to participate in the study. SARS-CoV-2 antibodies were positive in 16 (30.8%) patients. The characteristics of the study population are shown in <xref rid="T1" ref-type="table">Table 1</xref>, according to the results of SARS-CoV-2 antibodies.</p><table-wrap position="float" id="T1"><label>Table 1.</label><caption><title>Characteristics of study patients according to severe acute respiratory syndrome coronavirus 2 antibodies.</title></caption><table frame="box" rules="all" cellpadding="4" cellspacing="4"><thead style="color: #FFFFFF"><tr style="background-color:#154573;"><th align="left" valign="middle" rowspan="1" colspan="1">Characteristics</th><th align="center" valign="middle" rowspan="1" colspan="1">SARS-CoV-2 antibodies positive<break/>(n=16)</th><th align="center" valign="middle" rowspan="1" colspan="1">SARS-CoV-2 antibodies negative<break/>(n=36)</th><th align="center" valign="middle" rowspan="1" colspan="1">p-value</th></tr></thead><tbody style="border-bottom: thin solid; border-color: #000000; background-color:#EAF3F7"><tr><td align="left" valign="middle" rowspan="1" colspan="1">Age, years</td><td align="center" valign="middle" rowspan="1" colspan="1">47.3&#x000b1;23.3</td><td align="center" valign="middle" rowspan="1" colspan="1">41.3&#x000b1;15.9</td><td align="center" valign="middle" rowspan="1" colspan="1">0.364</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Male sex</td><td align="center" valign="middle" rowspan="1" colspan="1">9 (56.3)</td><td align="center" valign="middle" rowspan="1" colspan="1">31 (86.1)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.031</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Active smoking</td><td align="center" valign="middle" rowspan="1" colspan="1">5 (31.3)</td><td align="center" valign="middle" rowspan="1" colspan="1">10 (27.8)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.999</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Alcohol abuse</td><td align="center" valign="middle" rowspan="1" colspan="1">1 (6.3)</td><td align="center" valign="middle" rowspan="1" colspan="1">3 (8.3)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.999</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Use of drugs</td><td align="center" valign="middle" rowspan="1" colspan="1">1 (6.3)</td><td align="center" valign="middle" rowspan="1" colspan="1">4 (11.1)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.999</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Previous TB</td><td align="center" valign="middle" rowspan="1" colspan="1">3 (18.8)</td><td align="center" valign="middle" rowspan="1" colspan="1">7 (19.4)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.999</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">HIV</td><td align="center" valign="middle" rowspan="1" colspan="1">2 (12.5)</td><td align="center" valign="middle" rowspan="1" colspan="1">3 (8.3)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.637</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">DM</td><td align="center" valign="middle" rowspan="1" colspan="1">3 (18.8)</td><td align="center" valign="middle" rowspan="1" colspan="1">2 (5.6)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.163</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Presence of any comorbidity</td><td align="center" valign="middle" rowspan="1" colspan="1">8 (50.0)</td><td align="center" valign="middle" rowspan="1" colspan="1">12 (33.3)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.406</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Contact with COVID-19 case</td><td align="center" valign="middle" rowspan="1" colspan="1">14 (87.5)</td><td align="center" valign="middle" rowspan="1" colspan="1">3 (8.3)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003c;0.0001</td></tr></tbody></table><table-wrap-foot><fn id="T1FN1"><p>SARS-CoV-2: seroprevalence of severe acute respiratory syndrome coronavirus 2; TB: tuberculosis; HIV: human immunodeficiency virus; DM: diabetes mellitus; COVID-19: coronavirus disease 2019.</p></fn></table-wrap-foot></table-wrap><p>Male sex was more frequent among patients with negative SARS-CoV-2 antibodies than in patients with positive SARS-CoV-2 antibodies (86.1 vs. 56.3%, p=0.031). Contact with COVID-19 case was more common in patients with positive SARS-CoV-2 antibodies compared with patients with negative SARS-CoV-2 antibodies (87.5 vs. 8.3%, p&#x0003c;0.0001). All other characteristics were not statistically different comparing patients with negative SARS-CoV-2 antibodies with patients with positive SARS-CoV-2 antibodies.</p><p>In a multivariate analysis, in a model including the variables male sex and contact with COVID-19 case, only the last one was independently associated with positive SARS-CoV-2 antibodies (OR 77.0, 95%CI 11.5&#x02013;512.4, p&#x0003c;0.0001) (<xref rid="T2" ref-type="table">Table 2</xref>).</p><table-wrap position="float" id="T2"><label>Table 2.</label><caption><title>Multivariate analysis of factors associated with positive severe acute respiratory syndrome coronavirus 2 antibodies.</title></caption><table frame="box" rules="all" cellpadding="6" cellspacing="6"><thead style="color: #FFFFFF"><tr style="background-color:#154573;"><th align="left" valign="middle" rowspan="1" colspan="1">Characteristics</th><th align="center" valign="middle" rowspan="1" colspan="1">&#x003b2;</th><th align="center" valign="middle" rowspan="1" colspan="1">SE</th><th align="center" valign="middle" rowspan="1" colspan="1">Wald</th><th align="center" valign="middle" rowspan="1" colspan="1">OR (95%CI)</th><th align="center" valign="middle" rowspan="1" colspan="1">p-value</th></tr></thead><tbody style="border-bottom: thin solid; border-color: #000000; background-color:#EAF3F7"><tr><td align="left" valign="middle" rowspan="1" colspan="1">Male sex</td><td align="center" valign="middle" rowspan="1" colspan="1">-2.21</td><td align="center" valign="middle" rowspan="1" colspan="1">1.28</td><td align="center" valign="middle" rowspan="1" colspan="1">3.01</td><td align="center" valign="middle" rowspan="1" colspan="1">0.11 (0.01&#x02013;1.33)</td><td align="center" valign="middle" rowspan="1" colspan="1">0.083</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Contact with COVID-19 case</td><td align="center" valign="middle" rowspan="1" colspan="1">4.34</td><td align="center" valign="middle" rowspan="1" colspan="1">0.97</td><td align="center" valign="middle" rowspan="1" colspan="1">20.18</td><td align="center" valign="middle" rowspan="1" colspan="1">77.0 (11.5&#x02013;512.4)</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x0003c;0.0001</td></tr></tbody></table><table-wrap-foot><fn id="T2FN1"><p>SARS-CoV-2: seroprevalence of severe acute respiratory syndrome coronavirus 2; COVID-19: coronavirus disease 2019; SE: standard error; OR: odds ratio; CI: confidence interval.</p></fn></table-wrap-foot></table-wrap></sec><sec sec-type="discussion"><title>DISCUSSION</title><p>We aimed to estimate the prevalence of SARS-CoV-2 antibodies among TB patients with no prior history of COVID-19 and no suspected COVID-19. SARS-CoV-2 seroprevalence was 30.8%. In addition, in a multivariate analysis, a history of contact with COVID-19 case was independently associated with positive SARS-CoV-2 antibodies.</p><p>Our result of 30.8% of SARS-CoV-2 seroprevalence is similar to the range of percentage reported in other studies<xref rid="B13" ref-type="bibr">
+<sup>13</sup>
+</xref>-<xref rid="B16" ref-type="bibr">
+<sup>16</sup>
+</xref>. In a serological survey conducted on 1,141 healthcare workers in Brazil, the serum prevalence for the virus was 30%<xref rid="B13" ref-type="bibr">
+<sup>13</sup>
+</xref>. In another study in Brazil<xref rid="B14" ref-type="bibr">
+<sup>14</sup>
+</xref>, the SARS-CoV-2 seroprevalence among 3,046 asymptomatic and symptomatic individuals, selected from a convenience sample, was estimated at 29.1%. In a national survey in Mexico, the authors found a seroprevalence of 24.9% after the first epidemic wave, from August to November 2020<xref rid="B16" ref-type="bibr">
+<sup>16</sup>
+</xref>. In a meta-analysis<xref rid="B15" ref-type="bibr">
+<sup>15</sup>
+</xref> of nine studies from South America (i.e., Argentina, Brazil, Colombia, and Peru), the pooled seroprevalence was estimated at 33.6%.</p><p>As the clinical manifestation of SARS-CoV-2 infection is largely variable, ranging from asymptomatic to fatal, the number of reported cases does not reflect the actual number of infections because asymptomatic cases are not regularly tested. In the present study, all included patients were COVID-19 asymptomatic. In a seroprevalence study<xref rid="B16" ref-type="bibr">
+<sup>16</sup>
+</xref> in Mexico, among seropositive individuals, 67.3% were asymptomatic. Recently published studies confirm that a surveillance strategy that relies only on detected cases by RT-PCR will underestimate the true number of SARS-CoV-2 infections<xref rid="B8" ref-type="bibr">
+<sup>8</sup>
+</xref>,<xref rid="B17" ref-type="bibr">
+<sup>17</sup>
+</xref>,<xref rid="B18" ref-type="bibr">
+<sup>18</sup>
+</xref>.</p><p>History of contact with a COVID-19 case was the most important factor associated with positive SARS-CoV-2 antibodies in our study. According to these results, Halili et al.<xref rid="B19" ref-type="bibr">
+<sup>19</sup>
+</xref> found that having an infected family member is related to seropositivity to SARS-CoV-2 antibodies. In addition, in univariate analysis, males had more positive SARS-CoV-2 antibodies than females. This is in accordance with other studies that found that males have higher odds of seropositivity<xref rid="B19" ref-type="bibr">
+<sup>19</sup>
+</xref>-<xref rid="B21" ref-type="bibr">
+<sup>21</sup>
+</xref>. In contrast, Airoldi et al.<xref rid="B22" ref-type="bibr">
+<sup>22</sup>
+</xref> reported higher seropositivity among females.</p><p>This study has some limitations. First, it was carried out in a single center; thus, considering the locoregional differences and the different waves of the pandemic, it is possible that these results cannot be generalized. Second, although this was not the focus of the study, we did not collect data on mask use and social distancing, measures that may influence the seroprevalence of SARS-CoV-2. However, this is the first study that evaluated the prevalence of SARS-CoV-2 antibodies in TB patients.</p></sec><sec sec-type="conclusions"><title>CONCLUSIONS</title><p>This study revealed a seroprevalence of SARS-CoV-2 of 30.8% among patients with TB. These data help understand the epidemiology of COVID-19 in this population and to raise awareness that many patients have asymptomatic disease, with the potential for transmission to other patients in TB clinics and to family members. In addition, due to the high seroprevalence and the possibility of severe COVID-19, vaccination efforts must be intensified in TB patients. Also, other measures to mitigate the transmission of the disease from asymptomatic patients and potentially reduce morbidity and mortality would be the maintenance of the use of masks in TB clinics and low-threshold testing (testing patients with mild symptoms)<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref>,<xref rid="B24" ref-type="bibr">
+<sup>24</sup>
+</xref>.</p></sec></body><back><fn-group><fn fn-type="supported-by" id="fn1"><p>Funding: none.</p></fn></fn-group><ref-list><title>REFERENCES</title><ref id="B1"><label>1.</label><element-citation publication-type="webpage"><person-group person-group-type="author">
+<collab>World Health Organization</collab>
+</person-group><article-title>Global Tuberculosis Report 2022.</article-title><comment>Available from<ext-link xlink:href="https://www.who.int/teams/global-tuberculosis-programme/tb-reports/global-tuberculosis-report-2022" ext-link-type="uri">https://www.who.int/teams/global-tuberculosis-programme/tb-reports/global-tuberculosis-report-2022</ext-link>
+</comment></element-citation></ref><ref id="B2"><label>2.</label><element-citation publication-type="webpage"><person-group person-group-type="author">
+<collab>Minist&#x000e9;rio da Sa&#x000fa;de, Brasil</collab>
+</person-group><article-title>Boletim epidemiol&#x000f3;gico tuberculose 2022.</article-title><comment>Available from<ext-link xlink:href="https://www.saude.gov.br" ext-link-type="uri">www.saude.gov.br</ext-link>
+</comment></element-citation></ref><ref id="B3"><label>3.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tadolini</surname><given-names>M</given-names></name>
+<name><surname>Codecasa</surname><given-names>LR</given-names></name>
+<name><surname>Garc&#x000ed;a-Garc&#x000ed;a</surname><given-names>JM</given-names></name>
+<name><surname>Blanc</surname><given-names>FX</given-names></name>
+<name><surname>Borisov</surname><given-names>S</given-names></name>
+<name><surname>Alffenaar</surname><given-names>JW</given-names></name>
+<etal/>
+</person-group><article-title>Active tuberculosis, sequelae and COVID-19 co-infection: first cohort of 49 cases.</article-title><source>Eur Respir J.</source><year>2020</year><volume>56</volume><issue>(1)</issue><fpage>2001398</fpage><pub-id pub-id-type="doi">10.1183/13993003.01398-2020</pub-id><pub-id pub-id-type="pmid">32457198</pub-id></element-citation></ref><ref id="B4"><label>4.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Motta</surname><given-names>I</given-names></name>
+<name><surname>Centis</surname><given-names>R</given-names></name>
+<name><surname>D&#x02019;Ambrosio</surname><given-names>L</given-names></name>
+<name><surname>Garc&#x000ed;a-Garc&#x000ed;a</surname><given-names>JM</given-names></name>
+<name><surname>Goletti</surname><given-names>D</given-names></name>
+<name><surname>Gualano</surname><given-names>G</given-names></name>
+<etal/>
+</person-group><article-title>Tuberculosis, COVID-19 and migrants: preliminary analysis of deaths occurring in 69 patients from two cohorts.</article-title><source>Pulmonology.</source><year>2020</year><volume>26</volume><issue>(4)</issue><fpage>233</fpage><lpage>40</lpage><pub-id pub-id-type="doi">10.1016/j.pulmoe.2020.05.002</pub-id><pub-id pub-id-type="pmid">32411943</pub-id></element-citation></ref><ref id="B5"><label>5.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sy</surname><given-names>KTL</given-names></name>
+<name><surname>Haw</surname><given-names>NJL</given-names></name>
+<name><surname>Uy</surname><given-names>J</given-names></name>
+</person-group><article-title>Previous and active tuberculosis increases risk of death and prolongs recovery in patients with COVID-19.</article-title><source>Infect Dis (Lond).</source><year>2020</year><volume>52</volume><issue>(12)</issue><fpage>902</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.1080/23744235.2020.1806353</pub-id><pub-id pub-id-type="pmid">32808838</pub-id></element-citation></ref><ref id="B6"><label>6.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<collab>The TB/COVID-19 Global Study Group</collab>
+</person-group><part-title>Tuberculosis and COVID-19 co-infection: description of the global cohort.</part-title><source>Eur Respir J.</source><year>2022</year><volume>59</volume><issue>((3))</issue><fpage>2102538</fpage><pub-id pub-id-type="doi">10.1183/13993003.02538-2021</pub-id><pub-id pub-id-type="pmid">34764184</pub-id></element-citation></ref><ref id="B7"><label>7.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>X</given-names></name>
+<name><surname>Sun</surname><given-names>J</given-names></name>
+<name><surname>Nie</surname><given-names>S</given-names></name>
+<name><surname>Li</surname><given-names>H</given-names></name>
+<name><surname>Kong</surname><given-names>Y</given-names></name>
+<name><surname>Liang</surname><given-names>M</given-names></name>
+<etal/>
+</person-group><article-title>Seroprevalence of immunoglobulin M and G antibodies against SARS-CoV-2 in China.</article-title><source>Nat Med.</source><year>2020</year><volume>26</volume><issue>(8)</issue><fpage>1193</fpage><lpage>5</lpage><pub-id pub-id-type="doi">10.1038/s41591-020-0949-6</pub-id><pub-id pub-id-type="pmid">32504052</pub-id></element-citation></ref><ref id="B8"><label>8.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Poll&#x000e1;n</surname><given-names>M</given-names></name>
+<name><surname>P&#x000e9;rez-G&#x000f3;mez</surname><given-names>B</given-names></name>
+<name><surname>Pastor-Barriuso</surname><given-names>R</given-names></name>
+<name><surname>Oteo</surname><given-names>J</given-names></name>
+<name><surname>Hern&#x000e1;n</surname><given-names>MA</given-names></name>
+<name><surname>P&#x000e9;rez-Olmeda</surname><given-names>M</given-names></name>
+<etal/>
+</person-group><article-title>Prevalence of SARS-CoV-2 in Spain (ENE-COVID): a nationwide, population-based seroepidemiological study.</article-title><source>Lancet.</source><year>2020</year><volume>396</volume><issue>(10250)</issue><fpage>535</fpage><lpage>44</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(20)31483-5</pub-id><pub-id pub-id-type="pmid">32645347</pub-id></element-citation></ref><ref id="B9"><label>9.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Patel</surname><given-names>MC</given-names></name>
+<name><surname>Chaisson</surname><given-names>LH</given-names></name>
+<name><surname>Borgetti</surname><given-names>S</given-names></name>
+<name><surname>Burdsall</surname><given-names>D</given-names></name>
+<name><surname>Chugh</surname><given-names>RK</given-names></name>
+<name><surname>Hoff</surname><given-names>CR</given-names></name>
+<etal/>
+</person-group><article-title>Asymptomatic SARS-CoV-2 infection and COVID-19 mortality during an outbreak investigation in a skilled nursing facility.</article-title><source>Clin Infect Dis.</source><year>2020</year><volume>71</volume><issue>(11)</issue><fpage>2920</fpage><lpage>6</lpage><pub-id pub-id-type="doi">10.1093/cid/ciaa763</pub-id><pub-id pub-id-type="pmid">32548628</pub-id></element-citation></ref><ref id="B10"><label>10.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Piraee</surname><given-names>E</given-names></name>
+<name><surname>Davoodi</surname><given-names>M</given-names></name>
+<name><surname>Valipour</surname><given-names>A</given-names></name>
+<name><surname>Ghojogh</surname><given-names>MG</given-names></name>
+<name><surname>Jafari</surname><given-names>A</given-names></name>
+<name><surname>Azarbakhsh</surname><given-names>H</given-names></name>
+</person-group><article-title>Epidemiological characteristics and outcomes of COVID-19 in asymptomatic versus symptomatic patients.</article-title><source>J Prev Med Hyg.</source><year>2022</year><volume>62</volume><issue>(4)</issue><fpage>E854</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.15167/2421-4248/jpmh2021.62.4.2254</pub-id><pub-id pub-id-type="pmid">35603235</pub-id></element-citation></ref><ref id="B11"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Silva</surname><given-names>DR</given-names></name>
+<name><surname>Rabahi</surname><given-names>MF</given-names></name>
+<name><surname>Sant&#x02019;Anna</surname><given-names>CC</given-names></name>
+<name><surname>Silva-Junior</surname><given-names>JLRD</given-names></name>
+<name><surname>Capone</surname><given-names>D</given-names></name>
+<name><surname>Bombarda</surname><given-names>S</given-names></name>
+<etal/>
+</person-group><article-title>Diagnosis of tuberculosis: a consensus statement from the Brazilian Thoracic Association.</article-title><source>J Bras Pneumol.</source><year>2021</year><volume>47</volume><issue>((2))</issue><fpage>e20210054</fpage><pub-id pub-id-type="doi">10.36416/1806-3756/e20210054</pub-id><pub-id pub-id-type="pmid">34008763</pub-id></element-citation></ref><ref id="B12"><label>12.</label><element-citation publication-type="webpage"><person-group person-group-type="author">
+<collab>Diagnostics OC</collab>
+</person-group><article-title>VITROS immunodiagnostic products anti-SARS-CoV-2 total.</article-title><comment>Available from<ext-link xlink:href="https://www.orthoclinicaldiagnostics.com" ext-link-type="uri">www.orthoclinicaldiagnostics.com</ext-link>
+</comment></element-citation></ref><ref id="B13"><label>13.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Correia</surname><given-names>RF</given-names></name>
+<name><surname>Costa</surname><given-names>ACC</given-names></name>
+<name><surname>Moore</surname><given-names>DCBC</given-names></name>
+<name><surname>Gomes</surname><given-names>SC</given-names><suffix>Junior</suffix></name>
+<name><surname>Oliveira</surname><given-names>MPC</given-names></name>
+<name><surname>Zuma</surname><given-names>MCC</given-names></name>
+<etal/>
+</person-group><article-title>SARS-CoV-2 seroprevalence and social inequalities in different subgroups of healthcare workers in Rio de Janeiro, Brazil.</article-title><source>Lancet Reg Health Am.</source><year>2022</year><volume>7</volume><fpage>100170</fpage><pub-id pub-id-type="doi">10.1016/j.lana.2021.100170</pub-id><pub-id pub-id-type="pmid">35005692</pub-id></element-citation></ref><ref id="B14"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lalwani</surname><given-names>P</given-names></name>
+<name><surname>Salgado</surname><given-names>BB</given-names></name>
+<name><surname>P</surname><given-names>IV</given-names><suffix>Filho</suffix></name>
+<name><surname>Silva</surname><given-names>DSS</given-names></name>
+<name><surname>Morais</surname><given-names>TBDN</given-names></name>
+<name><surname>Jord&#x000e3;o</surname><given-names>MF</given-names></name>
+<etal/>
+</person-group><article-title>SARS-CoV-2 seroprevalence and associated factors in Manaus, Brazil: baseline results from the DETECTCoV-19 cohort study.</article-title><source>Int J Infect Dis.</source><year>2021</year><volume>110</volume><fpage>141</fpage><lpage>50</lpage><pub-id pub-id-type="doi">10.1016/j.ijid.2021.07.017</pub-id><pub-id pub-id-type="pmid">34273518</pub-id></element-citation></ref><ref id="B15"><label>15.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>N&#x000fa;&#x000f1;ez-Zapata</surname><given-names>SF</given-names></name>
+<name><surname>Benites-Peralta</surname><given-names>B</given-names></name>
+<name><surname>Mayta-Tristan</surname><given-names>P</given-names></name>
+<name><surname>Rodr&#x000ed;guez-Morales</surname><given-names>AJ</given-names></name>
+</person-group><article-title>High seroprevalence for SARS-CoV-2 infection in South America, but still not enough for herd immunity!.</article-title><source>Int J Infect Dis.</source><year>2021</year><volume>109</volume><fpage>244</fpage><lpage>6</lpage><pub-id pub-id-type="doi">10.1016/j.ijid.2021.07.022</pub-id><pub-id pub-id-type="pmid">34260956</pub-id></element-citation></ref><ref id="B16"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Basto-Abreu</surname><given-names>A</given-names></name>
+<name><surname>Carnalla</surname><given-names>M</given-names></name>
+<name><surname>Torres-Ibarra</surname><given-names>L</given-names></name>
+<name><surname>Romero-Mart&#x000ed;nez</surname><given-names>M</given-names></name>
+<name><surname>Mart&#x000ed;nez-Barnetche</surname><given-names>J</given-names></name>
+<name><surname>L&#x000f3;pez-Mart&#x000ed;nez</surname><given-names>I</given-names></name>
+<etal/>
+</person-group><article-title>Nationally representative SARS-CoV-2 antibody prevalence estimates after the first epidemic wave in Mexico.</article-title><source>Nat Commun.</source><year>2022</year><volume>13</volume><issue>((1))</issue><fpage>589</fpage><pub-id pub-id-type="doi">10.1038/s41467-022-28232-9</pub-id><pub-id pub-id-type="pmid">35105873</pub-id></element-citation></ref><ref id="B17"><label>17.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Stringhini</surname><given-names>S</given-names></name>
+<name><surname>Wisniak</surname><given-names>A</given-names></name>
+<name><surname>Piumatti</surname><given-names>G</given-names></name>
+<name><surname>Azman</surname><given-names>AS</given-names></name>
+<name><surname>Lauer</surname><given-names>SA</given-names></name>
+<name><surname>Baysson</surname><given-names>H</given-names></name>
+<etal/>
+</person-group><article-title>Seroprevalence of anti-SARS-CoV-2 IgG antibodies in Geneva, Switzerland (SEROCoV-POP): a population-based study.</article-title><source>Lancet.</source><year>2020</year><volume>396</volume><issue>(10247)</issue><fpage>313</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(20)31304-0</pub-id><pub-id pub-id-type="pmid">32534626</pub-id></element-citation></ref><ref id="B18"><label>18.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gudbjartsson</surname><given-names>DF</given-names></name>
+<name><surname>Norddahl</surname><given-names>GL</given-names></name>
+<name><surname>Melsted</surname><given-names>P</given-names></name>
+<name><surname>Gunnarsdottir</surname><given-names>K</given-names></name>
+<name><surname>Holm</surname><given-names>H</given-names></name>
+<name><surname>Eythorsson</surname><given-names>E</given-names></name>
+<etal/>
+</person-group><article-title>Humoral immune response to SARS-CoV-2 in Iceland.</article-title><source>N Engl J Med.</source><year>2020</year><volume>383</volume><issue>(18)</issue><fpage>1724</fpage><lpage>34</lpage><pub-id pub-id-type="doi">10.1056/NEJMoa2026116</pub-id><pub-id pub-id-type="pmid">32871063</pub-id></element-citation></ref><ref id="B19"><label>19.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Halili</surname><given-names>R</given-names></name>
+<name><surname>Bunjaku</surname><given-names>J</given-names></name>
+<name><surname>Gashi</surname><given-names>B</given-names></name>
+<name><surname>Hoxha</surname><given-names>T</given-names></name>
+<name><surname>Kamberi</surname><given-names>A</given-names></name>
+<name><surname>Hoti</surname><given-names>N</given-names></name>
+<etal/>
+</person-group><article-title>Seroprevalence of anti-SARS-CoV-2 antibodies among staff at primary healthcare institutions in Prishtina.</article-title><source>BMC Infect Dis.</source><year>2022</year><volume>22</volume><issue>((1))</issue><fpage>57</fpage><pub-id pub-id-type="doi">10.1186/s12879-022-07038-6</pub-id><pub-id pub-id-type="pmid">35034617</pub-id></element-citation></ref><ref id="B20"><label>20.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mahto</surname><given-names>M</given-names></name>
+<name><surname>Banerjee</surname><given-names>A</given-names></name>
+<name><surname>Biswas</surname><given-names>B</given-names></name>
+<name><surname>Kumar</surname><given-names>S</given-names></name>
+<name><surname>Agarwal</surname><given-names>N</given-names></name>
+<name><surname>Singh</surname><given-names>PK</given-names></name>
+</person-group><article-title>Seroprevalence of IgG against SARS-CoV-2 and its determinants among healthcare workers of a COVID-19 dedicated hospital of India.</article-title><source>Am J Blood Res.</source><year>2021</year><volume>11</volume><issue>(1)</issue><fpage>44</fpage><lpage>52</lpage><?supplied-pmid 33796388?><pub-id pub-id-type="pmid">33796388</pub-id></element-citation></ref><ref id="B21"><label>21.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shields</surname><given-names>A</given-names></name>
+<name><surname>Faustini</surname><given-names>SE</given-names></name>
+<name><surname>Perez-Toledo</surname><given-names>M</given-names></name>
+<name><surname>Jossi</surname><given-names>S</given-names></name>
+<name><surname>Aldera</surname><given-names>E</given-names></name>
+<name><surname>Allen</surname><given-names>JD</given-names></name>
+<etal/>
+</person-group><article-title>SARS-CoV-2 seroprevalence and asymptomatic viral carriage in healthcare workers: a cross-sectional study.</article-title><source>Thorax.</source><year>2020</year><volume>75</volume><issue>(12)</issue><fpage>1089</fpage><lpage>94</lpage><pub-id pub-id-type="doi">10.1136/thoraxjnl-2020-215414</pub-id><pub-id pub-id-type="pmid">32917840</pub-id></element-citation></ref><ref id="B22"><label>22.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Airoldi</surname><given-names>C</given-names></name>
+<name><surname>Patrucco</surname><given-names>F</given-names></name>
+<name><surname>Milano</surname><given-names>F</given-names></name>
+<name><surname>Alessi</surname><given-names>D</given-names></name>
+<name><surname>Sarro</surname><given-names>A</given-names></name>
+<name><surname>Rossi</surname><given-names>MA</given-names></name>
+<etal/>
+</person-group><article-title>High Seroprevalence of SARS-CoV-2 among healthcare workers in a North Italy Hospital.</article-title><source>Int J Environ Res Public Health.</source><year>2021</year><volume>18</volume><issue>((7))</issue><fpage>3343</fpage><pub-id pub-id-type="doi">10.3390/ijerph18073343</pub-id><pub-id pub-id-type="pmid">33804893</pub-id></element-citation></ref><ref id="B23"><label>23.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Menting</surname><given-names>T</given-names></name>
+<name><surname>Krause</surname><given-names>K</given-names></name>
+<name><surname>Benz-Tettey</surname><given-names>F</given-names></name>
+<name><surname>Boehringer</surname><given-names>R</given-names></name>
+<name><surname>Laufer</surname><given-names>D</given-names></name>
+<name><surname>Gruber</surname><given-names>B</given-names></name>
+<etal/>
+</person-group><article-title>Low-threshold SARS-CoV-2 testing facility for hospital staff: prevention of COVID-19 outbreaks?.</article-title><source>Int J Hyg Environ Health.</source><year>2021</year><volume>231</volume><fpage>113653</fpage><pub-id pub-id-type="doi">10.1016/j.ijheh.2020.113653</pub-id><pub-id pub-id-type="pmid">33137564</pub-id></element-citation></ref><ref id="B24"><label>24.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Geeraedts</surname><given-names>F</given-names></name>
+<name><surname>Luttje</surname><given-names>M</given-names></name>
+<name><surname>Visschedijk</surname><given-names>J</given-names></name>
+<name><surname>Hattem</surname><given-names>M</given-names></name>
+<name><surname>Hasper</surname><given-names>HJ</given-names></name>
+<name><surname>Kohnen</surname><given-names>R</given-names></name>
+<etal/>
+</person-group><article-title>Low-threshold testing for SARS-CoV-2 (COVID-19) in long-term care facilities early in the first pandemic wave, the twente region, the Netherlands: a possible factor in reducing morbidity and mortality.</article-title><source>J Appl Gerontol.</source><year>2022</year><volume>41</volume><issue>((8)</issue><fpage>1802</fpage><lpage>11</lpage><pub-id pub-id-type="doi">10.1177/07334648221093050</pub-id><pub-id pub-id-type="pmid">35543170</pub-id></element-citation></ref></ref-list></back></article>
